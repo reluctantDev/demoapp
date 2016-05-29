@@ -14,5 +14,11 @@ public class HelloWorld {
 
         System.out.println("Somethign on rBranch");
 
+        doSomething();
+
+    }
+
+    public static void doSomething(){
+        System.out.println("doSomething");
     }
 }
