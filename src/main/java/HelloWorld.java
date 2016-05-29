@@ -12,5 +12,7 @@ public class HelloWorld {
 
         System.out.println("Deleting pBranch");
 
+        System.out.println("master branch after some changes on rBranch");
+
     }
 }
