@@ -33,4 +33,8 @@ public class HelloWorld {
     public static void doSomething(){
 
     }
+
+    public static void feature1(){
+
+    }
 }
