@@ -26,6 +26,8 @@ public class HelloWorld {
 
         System.out.println("Origin/Master change");
 
+        System.out.println("Master change");
+        System.out.print("Master change2");
 
 
     }
