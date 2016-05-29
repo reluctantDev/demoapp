@@ -14,5 +14,7 @@ public class HelloWorld {
 
         System.out.println("master branch after some changes on rBranch");
 
+        System.out.println("some more changes on master");
+
     }
 }
