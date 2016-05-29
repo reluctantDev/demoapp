@@ -10,5 +10,7 @@ public class HelloWorld {
         System.out.println("After merge on mainbranch");
         System.out.println("After merge on pbranch");
 
+        System.out.println("Deleting pBranch");
+
     }
 }
